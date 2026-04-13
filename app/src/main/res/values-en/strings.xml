@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMR Calculation</string>
+    <string name="bmr_intro">BMR (Basal Metabolic Rate) is the amount of energy the body burns while completely at rest. This figure is useful as a basis for regulating eating patterns or diets.</string>
+    <string name="berat_badan">Body weight (kg)</string>
+    <string name="tinggi_badan">Height (cm)</string>
+    <string name="usia">" Age (years)"</string>
+    <string name="pria">Man</string>
+    <string name="wanita">Woman</string>
+    <string name="hitung">Calculate BMR</string>
+    <string name="bmr_x">Your BMR: %1$.0f kcal/day</string>
+    <string name="input_invalid">Invalid input!</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">BMR Calculation Results: Weight: %1$s kg Height: %2$s cm Age: %3$s years Gender: %4$s Total BMR: %5$.0f kcal/day</string>
+    <string name="menu">Menu list</string>
+    <string name="copyright">This app calculates your Basal Metabolic Rate (BMR) to help you monitor your basic daily calorie needs. Copyright © 2026. All rights reserved.</string>
+    <string name="kembali">Back</string>
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="kkal">kcal / day</string>
+    <string name="hasil_bmr">Your BMR Result</string>
+    <string name="kkal_menu">kcal</string>
+</resources>

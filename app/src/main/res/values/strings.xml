@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">MiniProject</string>
+    <string name="app_name">Kalkulator BMR</string>
+    <string name="bmr_intro">BMR (Basal Metabolic Rate) adalah jumlah energi yang dibakar tubuh saat istirahat total. Angka ini berguna sebagai dasar dalam mengatur pola makan atau diet.</string>
+
+    <string name="berat_badan">Berat badan (kg)</string>
+    <string name="tinggi_badan">Tinggi badan (cm)</string>
+    <string name="usia">Usia (tahun)</string>
+
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung BMR</string>
+
+    <string name="bmr_x">BMR Anda: %1$.0f kkal/hari</string>
+    <string name="input_invalid">Input tidak valid!</string>
+    <string name="bagikan">Bagikan</string>
+
+    <string name="bagikan_template">Hasil Perhitungan BMR: Berat: %1$s kg Tinggi: %2$s cm Usia: %3$s tahun Gender: %4$s  Total BMR: %5$.0f kkal/hari</string>
+
+    <string name="menu">Daftar Menu</string>
+    <string name="copyright">Aplikasi ini menghitung Basal Metabolic Rate (BMR) untuk membantu memantau kebutuhan kalori harian dasar.  Copyright © 2026. All rights reserved.</string>
+    <string name="kembali">Kembali</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi\n</string>
+
+    <string name="kkal">kkal / hari</string>
+    <string name="hasil_bmr">Hasil BMR Anda</string>
+    <string name="kkal_menu">kkal</string>
 </resources>
